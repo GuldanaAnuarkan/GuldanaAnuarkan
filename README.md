@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Guldana 👋
 
-<!--
-**GuldanaAnuarkan/GuldanaAnuarkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics graduate currently pursuing an MSc in Software Engineering at Karabuk University.
 
-Here are some ideas to get you started:
+My academic background in mathematics has given me a strong foundation in statistics, probability, linear algebra, calculus, and mathematical modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Python
+- SQL
+- Statistics
+- Excel
+- Data Analysis
+
+I'm currently developing my skills in data, machine learning, and software engineering through coursework, independent learning, and practical projects.
+
+## Interests
+
+- Data Analysis
+- Machine Learning
+- Artificial Intelligence
+- Natural Language Processing
+- Quantitative Methods
